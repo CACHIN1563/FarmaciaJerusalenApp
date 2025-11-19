@@ -1,0 +1,95 @@
+[2025-11-18 21:29:11] Archivo VentasDiarias.xlsx creado.
+[2025-11-18 21:29:11] Archivo Inventario.xlsx creado.
+[2025-11-18 21:29:11] Archivo FacturasCuentasPorPagar.xlsx creado.
+[2025-11-18 21:59:41] Venta No. 1 guardada exitosamente.
+[2025-11-18 21:59:46] Venta No. 2 guardada exitosamente.
+[2025-11-18 22:01:51] Venta No. 3 guardada exitosamente.
+[2025-11-18 22:01:56] Venta No. 4 guardada exitosamente.
+[2025-11-18 22:03:51] Recargo de Tarjeta aplicado a Venta No. 5: Q 0.16
+[2025-11-18 22:03:51] Venta No. 5 guardada exitosamente.
+[2025-11-18 22:04:22] Venta No. 6 guardada exitosamente.
+[2025-11-18 22:06:45] Venta No. 7 guardada exitosamente.
+[2025-11-18 22:06:45] ADVERTENCIA: Producto 'xyz' no encontrado en el inventario para descuento.
+[2025-11-18 22:09:22] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:09:29] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:09:32] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:31:51] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:32:02] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:36:28] Archivo IngresosDetallados.xlsx creado.
+[2025-11-18 22:36:31] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:36:46] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:36:54] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:36:56] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:36:57] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:36:58] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:36:59] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:36:59] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:37:00] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:37:01] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:37:06] Detalle de ingreso para Factura 150623 guardado.
+[2025-11-18 22:38:57] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:42:49] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:43:08] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:14] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:17] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:17] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:21] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:22] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:23] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:49] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:51] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:52] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:53] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:54] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:54] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:55] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:56] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:57] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:43:58] Detalle de ingreso para Factura 150625 guardado.
+[2025-11-18 22:46:58] Detalle de ingreso para Factura 150623 guardado con Lote 2511001.
+[2025-11-18 22:47:06] Detalle de ingreso para Factura 150623 guardado con Lote 2511002.
+[2025-11-18 22:47:08] Detalle de ingreso para Factura 150623 guardado con Lote 2511003.
+[2025-11-18 22:47:09] Detalle de ingreso para Factura 150623 guardado con Lote 2511004.
+[2025-11-18 22:48:38] Detalle de ingreso para Factura 5555555 guardado con Lote 2511006.
+[2025-11-18 22:48:42] Detalle de ingreso para Factura 5555555 guardado con Lote 2511007.
+[2025-11-18 22:48:45] Detalle de ingreso para Factura 5555555 guardado con Lote 2511008.
+[2025-11-18 22:48:52] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:48:54] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:50:21] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:50:31] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:50:33] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:52:52] Detalle de ingreso para Factura 1506254 guardado con Lote 2511001.
+[2025-11-18 22:53:15] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:53:23] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:53:25] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:53:34] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:58:16] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:58:21] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:58:36] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-18 22:58:37] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:13:49] ERROR al leer FacturasCuentasPorPagar.xlsx: [Errno 13] Permission denied: 'FacturasCuentasPorPagar.xlsx'
+[2025-11-18 23:13:49] ERROR al leer FacturasCuentasPorPagar.xlsx: [Errno 13] Permission denied: 'FacturasCuentasPorPagar.xlsx'
+[2025-11-18 23:17:22] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:17:40] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:17:43] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:29:05] ERROR al obtener facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:33:53] ERROR al calcular días restantes para facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:35:32] ERROR al calcular días restantes para facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:35:46] ERROR al calcular días restantes para facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-18 23:36:03] ERROR al calcular días restantes para facturas pendientes: Can only use .dt accessor with datetimelike values
+[2025-11-19 00:16:01] ERROR al leer FacturasCuentasPorPagar.xlsx: [Errno 13] Permission denied: 'FacturasCuentasPorPagar.xlsx'
+[2025-11-19 00:16:13] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-19 00:25:03] ERROR al leer FacturasCuentasPorPagar.xlsx: [Errno 13] Permission denied: 'FacturasCuentasPorPagar.xlsx'
+[2025-11-19 00:26:15] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-19 00:27:02] Detalle de ingreso para Factura 150626 guardado con Lote 2511035.
+[2025-11-19 00:27:10] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-19 00:27:26] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-19 00:34:11] ERROR al leer Inventario.xlsx: [Errno 13] Permission denied: 'Inventario.xlsx'
+[2025-11-19 00:34:18] ERROR al leer Inventario.xlsx: [Errno 13] Permission denied: 'Inventario.xlsx'
+[2025-11-19 00:34:53] ERROR al obtener productos a vencer: Can only use .dt accessor with datetimelike values
+[2025-11-19 00:46:23] Venta No. 8 guardada exitosamente.
+[2025-11-19 00:46:23] ADVERTENCIA: Producto 'AMOXCICILINA' no encontrado en el inventario para descuento.
+[2025-11-19 00:46:36] Venta No. 9 guardada exitosamente.
+[2025-11-19 00:46:37] ADVERTENCIA: Producto 'AMOXCICILINA' no encontrado en el inventario para descuento.
+[2025-11-19 00:46:59] Venta No. 10 guardada exitosamente.
+[2025-11-19 00:46:59] ADVERTENCIA: Producto 'AMOXCICILINA' no encontrado en el inventario para descuento.
